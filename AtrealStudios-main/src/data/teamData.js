@@ -37,11 +37,12 @@ export const teamMembers = [
   },
    {
     name: "Ankush Sawar",
-    image: /team/Ankush_Sawar.png,
+    image: "/team/Ankush_Sawar.png",
     title: "3D Designer working with Blender",
     description: "Gamer by instinct/every project is a new level"
   }
 ];
+
 
 
 
