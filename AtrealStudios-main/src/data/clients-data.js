@@ -3,7 +3,7 @@ export const clients = [
     id: 1,
     name: "Aadiraj Group",
     address: "Nallasopara, Maharashtra",
-    logo: "/clients/01.png"
+    logo: "/clients/aadiraj_industries.jpeg"
   },
   {
     id: 2,
@@ -39,3 +39,4 @@ export const clients = [
   }
 
 ];
+
