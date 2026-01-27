@@ -8,7 +8,7 @@ export const clients = [
   {
     id: 2,
     name: "Shrimunisuvrat Builders And Developers",
-    address: "Nallasopara, Maharashtra",
+    address: "Virar, Maharashtra",
     logo: "/clients/02.png"
   },
   {
@@ -39,5 +39,6 @@ export const clients = [
   }
 
 ];
+
 
 
