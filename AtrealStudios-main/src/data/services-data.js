@@ -34,4 +34,10 @@ export const services = [
     image: beyondImg,
     link: "/services/healthcare&education",
   },
+  {
+    title: "Atreal Connect",
+    description:"Walk the property. Together. Online.",
+    image:"/walk-the-property-together.png",
+    link:"/services/viewer"
+  }
 ];
